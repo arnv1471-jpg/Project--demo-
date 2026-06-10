@@ -1,4 +1,4 @@
  # Project--demo-
 This is a demo project built for practice.
 <br>
-Author-Arnav Napit
+Author-Arnav Napit (project-demo)
